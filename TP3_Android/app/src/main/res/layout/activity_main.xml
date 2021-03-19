@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textViewVille"
+            android:layout_width="84dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Ville :"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+            />
+
+        <EditText
+            android:id="@+id/editTextVille"
+            android:layout_width="249dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/input_shape"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/app_shape"
+            app:srcCompat="@android:drawable/ic_media_play" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listViewMeteo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@android:style/Widget.Material.ListView"
+        />
+
+</LinearLayout>

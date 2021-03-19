@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.volley:volley:1.1.0@aar">
+    <CLASSES>
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/a7e11ae90a053f19624797e1685b77bf/jetified-volley-1.1.0/res" />
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/fa8432cf65ddc8453bb7124ad732d70f/jetified-volley-1.1.0/res" />
+      <root url="jar://X:/gradle-6.8.3/caches/transforms-2/files-2.1/fa8432cf65ddc8453bb7124ad732d70f/jetified-volley-1.1.0/jars/classes.jar!/" />
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/fa8432cf65ddc8453bb7124ad732d70f/jetified-volley-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://X:/gradle-6.8.3/caches/modules-2/files-2.1/com.android.volley/volley/1.1.0/aa94c3b8ff347dc47325830d0895af426c6eeb87/volley-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://X:/gradle-6.8.3/caches/modules-2/files-2.1/com.android.volley/volley/1.1.0/65ed7df4af0e83a626f383ff49c3403342659aa9/volley-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

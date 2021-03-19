@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.2.0@aar">
+    <CLASSES>
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/49b2507a63f9b5e179c251741e120be3/jetified-core-1.2.0/res" />
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/1151f4128aabd50f01cf29170f27de92/jetified-core-1.2.0/AndroidManifest.xml" />
+      <root url="file://X:/gradle-6.8.3/caches/transforms-2/files-2.1/1151f4128aabd50f01cf29170f27de92/jetified-core-1.2.0/res" />
+      <root url="jar://X:/gradle-6.8.3/caches/transforms-2/files-2.1/1151f4128aabd50f01cf29170f27de92/jetified-core-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://X:/gradle-6.8.3/caches/modules-2/files-2.1/androidx.test/core/1.2.0/ed921186cfb809317daf41ccf8e6acc5dcea0e06/core-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://X:/gradle-6.8.3/caches/modules-2/files-2.1/androidx.test/core/1.2.0/4c4174bc50358d65632faeb0bb392ef76aa74c39/core-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
